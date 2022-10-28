@@ -15,6 +15,8 @@ By using python to draw the Karnataka Flag.
               or
      if you have jupyter notebook just run the notebook in UI.
      
+4. if you have install anaconda no need to install anything just open jupyter nootbook snd run
+5. if you want to see the output in terminal run command `python Karnatakaflag.py`
      
  ### License.
  
