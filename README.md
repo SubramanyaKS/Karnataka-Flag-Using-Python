@@ -20,7 +20,7 @@ By using python to draw the Karnataka Flag.
 
 ### Demo.
 
-<img src="" alt="demo"/>
+<img src="https://github.com/SubramanyaKS/Karnataka-Flag-Using-Python/blob/main/karnatakaflag.gif" alt="demo"/>
 
      
  ### License.
